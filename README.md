@@ -1,4 +1,4 @@
-Basic
+Poko
 =======
 
 Personal Wordpress Theme
