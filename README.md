@@ -1,4 +1,4 @@
-Persona
+Basic
 =======
 
 Personal Wordpress Theme
